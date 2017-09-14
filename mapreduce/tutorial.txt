@@ -1,0 +1,6 @@
+==== Mapreduce ====
+
+  * The MapReduce sample code is located at ''/raid6/sample/mapreduce_sample''. Copy it to your own directory
+  * The WordCount source code written in java is at ''src/main/java/mapreduce/WordCount.java''
+  * Compile it with maven '' mvn clean package''. The jar file will be generated at ''target/mapreduce-0.0.1-SNAPSHOT.jar''
+  * 
